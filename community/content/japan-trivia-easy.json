@@ -644,36 +644,14 @@
   "correctIndex": 0
 },
   {
-    "question": "Which Japanese dish is made of raw fish over rice? (Community variation 34)",
-    "difficulty": "easy",
-    "answers": [
-      "Sushi",
-      "Tempura",
-      "Tonkatsu",
-      "Okonomiyaki"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which Japanese art form involves arranging flowers? (Community variation 43)",
-    "difficulty": "easy",
-    "answers": [
-      "Ikebana",
-      "Origami",
-      "Ukiyo-e",
-      "Shodo"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which traditional Japanese sport involves wrestling in a ring?",
-    "difficulty": "easy",
-    "answers": [
-      "Sumo",
-      "Kendo",
-      "Judo",
-      "Aikido"
-    ],
-    "correctIndex": 0
-  }
+  "question": "Which Japanese dish consists of rice balls often wrapped in seaweed?",
+  "difficulty": "easy",
+  "answers": [
+    "Onigiri",
+    "Tempura",
+    "Sukiyaki",
+    "Yakitori"
+  ],
+  "correctIndex": 0
+}
 ]
